@@ -19,6 +19,7 @@ My biggest difficulties in this challenge was using and implementing the Jquery 
 * JAVASCRIPT
 * Jquery
 * Media-queries
+* Responsive Website
 
 ## Access My Resolution 💻
 
